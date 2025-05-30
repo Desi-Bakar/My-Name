@@ -1,9 +1,11 @@
 ---
 title: "5 Tren Desain Grafis 2025 yang Wajib Diketahui Para Kreator Muda"
-description: "Perkembangan teknologi, budaya pop, hingga kecerdasan buatan semakin memengaruhi cara kreator muda mengekspresikan visual. Kalau kamu seorang desainer grafis atau baru ingin terjun ke dunia ini, wajib banget tahu tren-tren yang bakal hits di 2025. Yuk, simak apa saja tren desain grafis yang patut kamu ikuti!"
+description: "Perkembangan teknologi, budaya pop, hingga kecerdasan buatan semakin memengaruhi cara kreator muda mengekspresikan visual. Kalau kamu seorang desainer grafis atau baru ingin terjun ke dunia ini, wajib banget tahu tren-tren yang bakal hits di 2025."
 pubDate: "2025-05-30"
-heroImage: "/post_img.webp"
+heroImage: "/Blog 1.png"
 ---
+
+ Yuk, simak apa saja tren desain grafis yang patut kamu ikuti!
 
 <b>1. AI-Generated Visuals</b>
 
