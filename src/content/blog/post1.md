@@ -1,56 +1,41 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
+title: "5 Tren Desain Grafis 2025 yang Wajib Diketahui Para Kreator Muda"
+description: "Perkembangan teknologi, budaya pop, hingga kecerdasan buatan semakin memengaruhi cara kreator muda mengekspresikan visual. Kalau kamu seorang desainer grafis atau baru ingin terjun ke dunia ini, wajib banget tahu tren-tren yang bakal hits di 2025. Yuk, simak apa saja tren desain grafis yang patut kamu ikuti!"
+pubDate: "2025-05-30"
 heroImage: "/post_img.webp"
-tags: ["tokio"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
+<b>1. AI-Generated Visuals</b>
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+Kecerdasan buatan (AI) bukan cuma dipakai buat chatbot atau foto editan semata. Di 2025, AI sudah jadi partner kreatif yang bisa menghasilkan ilustrasi, logo, bahkan layout poster dalam hitungan detik. Banyak desainer menggabungkan karya manual dengan sentuhan AI-generated visuals untuk menciptakan konsep yang unik dan futuristik.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
+Tips:
+Gunakan tools seperti MidJourney, DALL·E, atau Adobe Firefly untuk eksplorasi desain berbasis AI.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
-Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
-dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor
-dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
+<b>2. Neo-Memphis Design</b>
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+Gaya Memphis yang ikonik di era 80-an kini hadir kembali dengan sentuhan modern. Warna-warna cerah, pola geometris, dan elemen retro di-remix dengan efek 3D, glitch, atau gradasi neon. Tren ini cocok banget buat branding, poster musik, hingga konten media sosial yang ingin tampil playful dan penuh energi.
+
+Tips:
+Padukan bentuk-bentuk asimetris dengan warna pastel dan bold color untuk hasil yang eye-catching.
+
+<b>3. Hyper-Minimalism</b>
+
+Di tengah tren yang ramai, minimalisme ekstrem justru kembali populer. Desain clean, layout kosong, dan tipografi tegas jadi pilihan banyak brand untuk tampil elegan dan berkelas. Warna-warna monokrom, negative space, dan elemen sederhana jadi kunci utama gaya ini.
+
+Tips:
+Fokuskan pesan desainmu dengan meminimalkan elemen visual tapi tetap powerful secara makna.
+
+<b>4. 3D Typography</b>
+
+Tulisan bukan cuma huruf datar di layar. Tren 3D typography di 2025 menghadirkan teks yang hidup dengan efek emboss, shadow dramatis, hingga tekstur metalik atau kaca. Desain ini cocok untuk headline poster, logo, maupun motion graphic.
+
+Tips:
+Eksplorasi tools seperti Blender atau Adobe Dimension untuk membuat efek teks 3D yang realistis.
+
+<b>5. Nature-Inspired Design</b>
+
+Kembali ke alam jadi tema besar di banyak karya visual tahun ini. Warna-warna earthy tone, tekstur organik, ilustrasi daun, air, dan elemen natural lainnya semakin banyak digunakan, apalagi untuk brand yang mengusung konsep sustainability.
+
+Tips:
+Gunakan palet warna natural seperti hijau zaitun, cokelat tanah, biru laut, dan krem pasir.

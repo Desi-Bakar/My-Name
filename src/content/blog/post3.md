@@ -1,57 +1,55 @@
 ---
-title: "Demo Post 3"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 12 2022"
+title: "Tips Membangun Personal Branding Lewat Desain: Dari Portofolio hingga Social Media"
+description: "Di era digital saat ini, personal branding menjadi salah satu kunci untuk membangun karier dan memperluas jejaring profesional, terutama bagi para desainer grafis. Personal branding bukan sekadar soal logo pribadi atau tampilan visual saja, tetapi juga bagaimana kita memperkenalkan diri, karya, dan nilai yang kita tawarkan kepada publik. Salah satu cara efektif membangun personal branding adalah melalui desain, baik di portofolio maupun di media sosial."
+pubDate: "2025-05-30"
 heroImage: "/post_img.webp"
-badge: "Demo badge"
-tags: ["rust","tokio"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
+<b>1. Tentukan Identitas Visual yang Konsisten</b><br>
+Sebelum mulai membuat portofolio atau posting di media sosial, tentukan dulu identitas visual yang akan merepresentasikan dirimu. Mulai dari warna khas, jenis font, gaya ilustrasi, hingga tone desain yang kamu gunakan. Konsistensi ini akan memudahkan orang lain mengenali karya-karyamu meskipun tanpa diberi nama.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+<b>Tips</b><br>
+<ul>
+<li>Pilih palet warna yang mencerminkan kepribadian dan gaya desainmu.</li>
+<li>Gunakan font yang mudah dibaca dan sesuai karakter.</li>
+<li>Buat logo atau monogram sederhana sebagai signature.</li>
+</ul>
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
+<b>2. Bangun Portofolio Digital yang Menarik</b><br>
+Portofolio adalah wajah pertama yang dilihat orang saat ingin mengenal karya seorang desainer. Baik itu dalam bentuk website pribadi, Behance, Dribbble, atau PDF interaktif — pastikan portofoliomu mampu menunjukkan keahlian, gaya desain, dan pengalaman yang kamu miliki.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
-Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
-dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor
-dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
+<b>Tips</b>
+<ul>
+<li>Pilih palet warna yang mencerminkan kepribadian dan gaya desainmu.</li>
+<li>Ceritakan proses di balik desain (concept, problem solving, hingga hasil akhir).</li>
+<li>Update portofolio secara berkala.</li>
+</ul>
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+<b>3. Aktif di Media Sosial</b><br>
+Media sosial seperti Instagram, TikTok, atau LinkedIn bisa menjadi sarana efektif untuk mempromosikan diri dan karya. Selain memamerkan hasil desain, gunakan media sosial untuk berbagi tips, proses pembuatan desain, hingga inspirasi visual.
+
+<b>Tips</b>
+<ul>
+<li>Gunakan feed yang rapi dan terkonsep.</li>
+<li>Manfaatkan fitur reels atau story untuk behind the scene.</li>
+<li>Buat konten edukatif seputar desain untuk menarik audiens lebih luas.</li>
+</ul>
+
+<b>4. Bangun Personal Voice</b><br>
+Selain visual, gaya komunikasi atau personal voice juga penting. Tentukan gaya bahasa yang akan kamu gunakan — apakah santai, formal, atau inspiratif. Pastikan pesan yang kamu sampaikan sesuai dengan karakter dan target audiens.
+
+<ul>
+<li>Gunakan caption yang engaging.</li>
+<li>Berinteraksi dengan followers melalui kolom komentar atau Q&A.</li>
+<li>Tulis artikel atau blog seputar pengalaman desainmu.</li>
+</ul>
+
+<b>5. Jaga Kredibilitas dan Etika Desain</b><br>
+Membangun personal branding tidak hanya soal tampil menarik, tetapi juga soal reputasi. Hindari plagiat, selalu berikan kredit jika menggunakan karya orang lain sebagai inspirasi, dan hargai feedback dari komunitas.
+
+<b>Tips</b><br>
+<ul>
+<li>Sertakan watermark atau logo di karya yang diposting.</li>
+<li>Selalu respon komentar atau kritik secara positif.</li>
+<li>Ikut komunitas desain untuk membangun relasi dan belajar bersama.</li>
+</ul>
