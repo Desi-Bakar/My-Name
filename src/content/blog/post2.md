@@ -2,7 +2,7 @@
 title: "Bagaimana AI Mengubah Dunia Desain Grafis: Peluang atau Ancaman?"
 description: "Di era digital yang terus berkembang, kecerdasan buatan (Artificial Intelligence/AI) mulai merambah ke berbagai bidang, termasuk dunia desain grafis. Teknologi yang dulunya dianggap futuristik, kini menjadi alat yang semakin umum digunakan oleh para desainer di seluruh dunia."
 pubDate: "2025-05-30"
-heroImage: "/Blog 2.png"
+heroImage: "/Blog 2.webp"
 ---
 
 Namun, seiring dengan manfaatnya, hadir pula kekhawatiran tentang bagaimana AI akan memengaruhi profesi ini ke depannya. Apakah AI menjadi peluang yang bisa dimanfaatkan, atau justru ancaman bagi para desainer?

@@ -2,7 +2,7 @@
 title: "Tips Membangun Personal Branding Lewat Desain: Dari Portofolio hingga Social Media"
 description: "Di era digital saat ini, personal branding menjadi salah satu kunci untuk membangun karier dan memperluas jejaring profesional, terutama bagi para desainer grafis. Personal branding bukan sekadar soal logo pribadi atau tampilan visual saja."
 pubDate: "2025-05-30"
-heroImage: "/Blog 3.png"
+heroImage: "/Blog 3.webp"
 ---
  
 Tetapi juga bagaimana kita memperkenalkan diri, karya, dan nilai yang kita tawarkan kepada publik. Salah satu cara efektif membangun personal branding adalah melalui desain, baik di portofolio maupun di media sosial.
